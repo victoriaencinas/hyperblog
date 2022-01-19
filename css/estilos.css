@@ -4,15 +4,3 @@ body
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
-#container
-{
-    width: 70%;
-    padding: 1cm;
-    text-align: left;
-    border: 1px solid snow;
-    margin: 0 auto;
-}
-#container h1
-{
-    font-size: 20px;
-}
